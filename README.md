@@ -1,5 +1,9 @@
 # 🌐 Proxy Scraper & Checker Tool
 
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&style=flat-square)
+![Security](https://img.shields.io/badge/Security-Automated%20Testing-red?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
 🚀 **Fast & simple tool** for scraping free proxies and checking their validity in bulk.  
 Perfect for quickly building a working proxy list for your needs.  
 
