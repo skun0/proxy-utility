@@ -1,0 +1,14 @@
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\bin\Debug\net8.0\ProxyScraper.exe
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\bin\Debug\net8.0\ProxyScraper.deps.json
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\bin\Debug\net8.0\ProxyScraper.runtimeconfig.json
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\bin\Debug\net8.0\ProxyScraper.dll
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\bin\Debug\net8.0\ProxyScraper.pdb
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.AssemblyInfoInputs.cache
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.AssemblyInfo.cs
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.csproj.CoreCompileInputs.cache
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.dll
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\refint\ProxyScraper.dll
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.pdb
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ProxyScraper.genruntimeconfig.cache
+C:\Users\skuno\source\repos\ProxyScraper\ProxyScraper\obj\Debug\net8.0\ref\ProxyScraper.dll
