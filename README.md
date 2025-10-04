@@ -1,33 +1,14 @@
-# 🌐 Proxy Scraper & Checker Tool
+<h1 align="center">Skuno | ProxyUtility</h1>
 
-🚀 **Fast & simple tool** for scraping free proxies and checking their validity in bulk.  
-Perfect for quickly building a working proxy list for your needs.  
+###
 
-## ✨ Features
+<div align="center">
+  <img src="https://img.shields.io/badge/Csharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
+  <img width="12" />
+  <a href="https://t.me/os_skuno" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="telegram logo"  />
+  </a>
+</div>
 
-- 📥 **Proxy Scraper** — Automatically grabs fresh proxies from multiple online sources.  
-- ✅ **Proxy Checker** — Tests proxies for validity and saves the working ones.  
-- 📊 **Live Stats** — Console title updates with each proxy's status.  
-- 💾 **File Output** — Saves all scraped proxies and valid proxies to separate files.  
-
-## 📂 Files Created
-
-- `proxies.txt` — All scraped proxies.  
-- `valid_proxies.txt` — Only working proxies.  
-
-## 📸 Preview
-
-```text
-[VALID] 192.168.0.1:8080
-[INVALID] 10.0.0.5:3128
-...
-```
-
-Console title example during checking:  
-```
-Checking: 192.168.0.1:8080 [VALID] - Checked: 23/200
-```
-
-## ⚠️ Disclaimer
-
-This tool is for **educational and research purposes only**. The developer is not responsible for any misuse.  
+###
+![UI Screenshot](ui.png)
