@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Csharp-3776AB?logo=csharp&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
+  <img src="https://img.shields.io/badge/C#-3776AB?logo=csharp&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
   <img width="12" />
   <a href="https://t.me/os_skuno" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="60" alt="telegram logo"  />
